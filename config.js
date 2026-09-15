@@ -45,10 +45,10 @@ const CONFIG = {
   // rating (1-5), text.
   testimonials: [
     {
-      name: "Contoh: Ibu Sari (Pihak Sekolah)",
-      category: "Sekolah",
+      name: "Ibu Cindy Nurhaini",
+      category: "Kantor",
       rating: 5,
-      text: "Contoh keterangan. Ganti teks ini dengan testimoni asli dari pelanggan.",
+      text: "Fast respon, prosesnya cepat, bisa diantar area duta pakis, kualitas kartunya bagus, warnanya tajam, plastik kartu tebal.",
       demo: true
     },
     {
