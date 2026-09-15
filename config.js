@@ -52,10 +52,10 @@ const CONFIG = {
       demo: true
     },
     {
-      name: "Contoh: Mas Rizky (Panitia Event)",
-      category: "Event",
+      name: "Bapak Atep Sopandi",
+      category: "Kantor",
       rating: 5,
-      text: "Contoh keterangan. Ganti teks ini dengan testimoni asli dari pelanggan.",
+      text: "Hasil cetakan bagus dan jelas. Harga ekonomis tapi hasilnya luar biasa.",
       demo: true
     },
     {
